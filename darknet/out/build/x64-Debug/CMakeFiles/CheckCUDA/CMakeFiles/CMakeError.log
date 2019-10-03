@@ -1,0 +1,18 @@
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: CMAKE_CUDA_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+系統找不到指定的檔案。
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: CMAKE_CUDA_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+系統找不到指定的檔案。
+
+

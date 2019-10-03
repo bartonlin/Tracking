@@ -1,8 +1,3 @@
-/******************************************************************************
-* C++ Implementation of IOUT tracking algorithm
-* More info on <http://elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf>
-* Author Lucas Wals
-******************************************************************************/
 #pragma once
 #include <vector>
 

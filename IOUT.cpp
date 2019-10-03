@@ -51,7 +51,6 @@ inline int highestIOU(BoundingBox box, std::vector<BoundingBox> boxes)
 std::vector< Track > track_iou(float sigma_l, float sigma_h, float sigma_iou, float t_min,
 	std::vector< std::vector<BoundingBox> > detections)
 {
-	std::cout << "track_iou function" << std::endl;
 	std::vector<Track> active_tracks;
 	std::vector<Track> finished_tracks;
 	int frame = 0;

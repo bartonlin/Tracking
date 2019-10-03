@@ -1,7 +1,3 @@
-/*
-* Example of using IOU Tracker C++ Implementation
-* Author Lucas Wals
-*/
 #pragma once
 #include <fstream>
 #include <cstdio>
